@@ -44,3 +44,7 @@ The average Sales Were 676,694 in each country and only 3 of the 26 countries ma
 The site has been getting average traffic of about 1600 average monthly users. However, There was a large spike in users. In the beginning of December where the site witnessed the use of over 3k users and the spike has been slowly dying as January 2024 approached with the average standing at around 2k.
 The site also receives over 19k yearly users
 
+![Users](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/users.jpg)
+
+The e-business has 10 distribution centers and the Chicago center has moved a wider range of products. With Savannah moving the smallest. However, the Houston center has made better in sales and profits. With the Charleston branch trailing.
+
