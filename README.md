@@ -73,3 +73,6 @@ This shows that the outwear and coats are the most profitable although Intimates
 
 ## Final Dashboard
 ![Dashboard](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/dashboard.jpg)
+
+### Project
+![Project](https://drive.google.com/file/d/1uOFu9_cTTQ5nqN1BkQqKdu_EI87q0an0/view?usp=sharing)
