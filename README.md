@@ -26,4 +26,7 @@ The dataset was fairly clean with minimal errors. I deleted several columns in t
 This dataset has six tables each with a primary key. They include orders, users, products, distribution centers, inventory items, and ordered items.
 The main sources in which the website got traffic were five. Many users used search as their entry point with email and display reporting poorly.
 
-![https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/traffic_source.jpg](Traffic Sources)
+![Traffic Sources](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/traffic_source.jpg)
+
+Many users were spread out throughout the age groups but. The age of 50 and above attracted a larger amount than most other age groups and both male and female being relatively equal. This also shows that most people in the search are old which means above the age of fifty.
+
