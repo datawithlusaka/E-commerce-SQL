@@ -56,4 +56,20 @@ In terms of category performance outerwear and coats, they had greater profit ma
 
 This shows that the outwear and coats are the most profitable although Intimates and jeans have more products.
 
-![Products2[
+![Products2](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/prodducts2.jpg)
+
+## Summary.
+•	The main source of traffic for the business is search and browser and relevant maintenance should be done to make sure it is efficient.
+•	Majority of customers are from age 50 and above.
+•	Only 3 out of 26 countries have produced above-average sales.
+•	The average monthly users are about 1600 with yearly users standing at 19k.
+•	The business has 10 distribution centers.
+•	The outerwear and coats were the most profitable but the intimates sold more units.
+
+## Recommendations
+•	Marketing the business in the remaining platforms such as Facebook to also capture the market there.
+•	Encouraging the younger age groups to shop and also creating targeted ads for that age group.
+•	Taking advantage of the large December traffic to clear the products that have been slow throughout the year.
+
+## Final Dashboard
+
