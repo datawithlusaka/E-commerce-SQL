@@ -51,3 +51,9 @@ The e-business has 10 distribution centers and the Chicago center has moved a wi
 ![Distribution Centers](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/distributionc.jpg)
 
 In terms of category performance outerwear and coats, they had greater profit margins of all the categories. The clothing set was the poorest in performance. Women's clothing made bigger sales and also larger profit margins overall. However, the difference was not very large.
+
+![Products](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/prodducts.jpg)
+
+This shows that the outwear and coats are the most profitable although Intimates and jeans have more products.
+
+![Products2[
