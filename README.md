@@ -30,3 +30,7 @@ The main sources in which the website got traffic were five. Many users used sea
 
 Many users were spread out throughout the age groups but. The age of 50 and above attracted a larger amount than most other age groups and both male and female being relatively equal. This also shows that most people in the search are old which means above the age of fifty.
 
+![Age Group By traffic](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/2.jpg)
+
+Higher orders have been completed and shipped but a still big number are being cancelled and returned. This problem must be addressed to save the company money. The company lost over 40k orders and 200k in sales due to canceled and returned orders.
+
