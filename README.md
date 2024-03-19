@@ -34,3 +34,13 @@ Many users were spread out throughout the age groups but. The age of 50 and abov
 
 Higher orders have been completed and shipped but a still big number are being cancelled and returned. This problem must be addressed to save the company money. The company lost over 40k orders and 200k in sales due to canceled and returned orders.
 
+![orders](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/orderss.jpg)
+
+The users with the most orders were the smiths. The 4 users led both in orders and quantities of items purchased. Michael Smith has also led in sales recording about 6,646 in sales.
+China and the United States led in the number of overall users. China leading with over 34k users. The lowest performing was Deutschland and Austria which only recorded two users each. China has also led in the number of total sales.
+
+The average Sales Were 676,694 in each country and only 3 of the 26 countries made sales above with the best being the us, Brazil, and China respectively. This shows that many countries are still performing below par and need to improve in sales.
+
+The site has been getting average traffic of about 1600 average monthly users. However, There was a large spike in users. In the beginning of December where the site witnessed the use of over 3k users and the spike has been slowly dying as January 2024 approached with the average standing at around 2k.
+The site also receives over 19k yearly users
+
