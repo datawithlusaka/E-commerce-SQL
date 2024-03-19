@@ -48,3 +48,6 @@ The site also receives over 19k yearly users
 
 The e-business has 10 distribution centers and the Chicago center has moved a wider range of products. With Savannah moving the smallest. However, the Houston center has made better in sales and profits. With the Charleston branch trailing.
 
+![Distribution Centers](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/distributionc.jpg)
+
+In terms of category performance outerwear and coats, they had greater profit margins of all the categories. The clothing set was the poorest in performance. Women's clothing made bigger sales and also larger profit margins overall. However, the difference was not very large.
