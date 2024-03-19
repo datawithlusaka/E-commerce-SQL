@@ -26,3 +26,4 @@ The dataset was fairly clean with minimal errors. I deleted several columns in t
 This dataset has six tables each with a primary key. They include orders, users, products, distribution centers, inventory items, and ordered items.
 The main sources in which the website got traffic were five. Many users used search as their entry point with email and display reporting poorly.
 
+![https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/traffic_source.jpg](Traffic Sources)
