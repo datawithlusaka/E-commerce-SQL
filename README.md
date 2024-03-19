@@ -72,4 +72,4 @@ This shows that the outwear and coats are the most profitable although Intimates
 •	Taking advantage of the large December traffic to clear the products that have been slow throughout the year.
 
 ## Final Dashboard
-
+![Dashboard](https://github.com/datawithlusaka/E-commerce-SQL/blob/main/images/dashboard.jpg)
